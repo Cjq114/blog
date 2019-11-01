@@ -1,24 +1,16 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: 开始阅读 →
-# actionLink: /zh/guide/
+heroText: Hero 标题111
+tagline: Hero 副标题
+actionText: 快速上手 →
 actionLink: /demo1/demo1-1/
 features:
-- title: 属性1
-  details: 属性1简介
-- title: 属性2
-  details: 属性2简介
-- title: 属性3
-  details: 属性3简介
-footer: MIT Licensed | Copyright © 2019-present zmx2321@163.com
-
-
-
-<!-- 
-里面可能有若干bug还未修复
-
-参考package.json本地运行环境
-deploy用来将打包文件发布到githubPage
-main用来提交到GitHub源码
- -->
+- title: 简洁至上
+  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+- title: Vue驱动
+  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
+- title: 高性能
+  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+footer: MIT Licensed | Copyright © 2018-present Evan You
+---
