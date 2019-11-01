@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zmx2321/blog-demo.git"
+    "url": "git+https://github.com/Cjq114/blog-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zmx2321/blog-demo/issues"
+    "url": "https://github.com/Cjq114/blog/issues"
   },
-  "homepage": "https://github.com/zmx2321/blog-demo#readme",
+  "homepage": "https://github.com/Cjq114/blog#readme",
   "devDependencies": {
     "vuepress": "^1.2.0"
   }
